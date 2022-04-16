@@ -2,9 +2,15 @@
     background-color: rgb(77, 161, 77);
 }
 
+.line{
+    border: 1px solid #EFEFEF;
+}
+
 .main-container{
-    margin-top: 134px;
-    margin-right: 384px;
-    margin-bottom: 14px;
-    margin-left: 267px;
+    position: absolute;
+    width: 790px;
+    height: 3105px;
+    left: 266px;
+    top: 134px;
+    background: #fcfbfb;
 }
