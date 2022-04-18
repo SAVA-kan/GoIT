@@ -14,3 +14,17 @@
     top: 134px;
     background: #fcfbfb;
 }
+
+.item{
+    color: #284ACE;
+    width: 765px;
+    height: 24px;
+    margin-left: -20px;
+}
+.text{
+    color: #0B0A05;
+}
+.text-list{
+    margin-bottom: 5px;
+    margin-left: -20px;
+}
