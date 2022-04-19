@@ -1,7 +1,3 @@
-.body{
-    background-color: rgb(77, 161, 77);
-}
-
 .line{
     border: 1px solid #EFEFEF;
 }
@@ -9,10 +5,10 @@
 .main-container{
     position: absolute;
     width: 790px;
-    height: 3105px;
-    left: 266px;
-    top: 134px;
-    background: #fcfbfb;
+    height: 2425px;
+    left: 200px;
+    top: 50px;
+    background: #bfb4b4;
 }
 
 .item{
@@ -26,5 +22,5 @@
 }
 .text-list{
     margin-bottom: 5px;
-    margin-left: -20px;
+    margin-left: -15px;
 }
