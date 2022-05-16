@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(242, 228, 161);
+
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.text-images{
+    text-align: center;
+}
